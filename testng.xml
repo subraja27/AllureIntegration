@@ -4,7 +4,6 @@
   <test thread-count="5" name="Incidents">
   	<classes>
   		<class name="services.IncidentTests"></class>
-
   	</classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
